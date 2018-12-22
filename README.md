@@ -34,6 +34,3 @@ The following libraries are required
 * model.py: Train model using the best-performed parameters from the finetune process and sava the model as pickle files
 
 All the saved pickle files can be found in the "trained" folder.
-
-
-# Art-classify
